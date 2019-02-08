@@ -50,6 +50,3 @@ print(m.x.0)
 var (_,x1) = q
 print(x1)
 
-var çöğrek = "Donut"
-
-print(çöğrek)
